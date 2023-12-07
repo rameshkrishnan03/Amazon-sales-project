@@ -27,7 +27,7 @@ Second Dataset - return.
 - Step 6  : In second dataset has returned product details and make tha calculation for count of returned products.
             second Dataset have return product id and customerid
             so use the conditional column  for calculate the total returned product
-                                                    Total Returned = if [Column1] = "Yes" then 1 else 0).
+  # Total Returned = if [Column1] = "Yes" then 1 else 0).                                                    
 
 - Step 7  : #Data Modelling 
                 Connect the 2 Dataset in PowerBi
