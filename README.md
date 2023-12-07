@@ -66,7 +66,7 @@ In this chart X-axis contain Months and Y-axis contain Profit
 
 - Step 13 : The report was then published to Power BI Service.
  
- 
+![Screenshot (32)](https://github.com/rameshkrishnan03/Amazon-sales-project/assets/70803627/6b3d537d-7a11-4005-816b-e396b738e991) 
 
 
 # Snapshot of Dashboard (Power BI Service)
