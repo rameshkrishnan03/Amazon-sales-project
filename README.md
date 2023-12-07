@@ -1,6 +1,4 @@
-
-
-                                                                        # Amazon Sales Dashboard
+# Amazon Sales Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/e97da212-901b-49a6-aecf-ed549e839917/ReportSection?experience=power-bi
 
